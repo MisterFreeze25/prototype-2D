@@ -2,13 +2,13 @@
 
 [ext_resource type="Script" uid="uid://dy15aeog1cty7" path="res://scripts/game_manager.gd" id="1_gee14"]
 [ext_resource type="PackedScene" uid="uid://c6hv1nukp1ddl" path="res://scenes/player.tscn" id="1_uwrxv"]
-[ext_resource type="Texture2D" uid="uid://b7pxw2f46urym" path="res://assets/brackeys_platformer_assets/sprites/world_tileset.png" id="2_yqjtg"]
+[ext_resource type="Texture2D" uid="uid://dao60lrouin82" path="res://assets/brackeys_platformer_assets/sprites/world_tileset.png" id="2_yqjtg"]
 [ext_resource type="PackedScene" uid="uid://bqrxim0w04j6n" path="res://scenes/platform.tscn" id="3_lnu2h"]
 [ext_resource type="PackedScene" uid="uid://c7frvqlxly2sy" path="res://scenes/coin.tscn" id="4_lbhrr"]
 [ext_resource type="PackedScene" uid="uid://6ybd7jvgjye6" path="res://scenes/killzone.tscn" id="5_iywne"]
 [ext_resource type="PackedScene" uid="uid://xmpstk780jn7" path="res://scenes/slime.tscn" id="6_p57ef"]
-[ext_resource type="FontFile" uid="uid://di7no01sngcdc" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8.ttf" id="7_u5sy4"]
-[ext_resource type="FontFile" uid="uid://bj45kct6vyjii" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="9_0tnpc"]
+[ext_resource type="FontFile" uid="uid://ddbl4i2wvj7v" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8.ttf" id="7_u5sy4"]
+[ext_resource type="FontFile" uid="uid://ch560ku5d3li4" path="res://assets/brackeys_platformer_assets/fonts/PixelOperator8-Bold.ttf" id="9_0tnpc"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lnu2h"]
 texture = ExtResource("2_yqjtg")
